@@ -11,7 +11,7 @@ export const GlobalStyles = createGlobalStyle`
 
   body {
     font-family: 'Roboto Mono', monospace;
-    background-color: black;
+    color: ${props => props.theme.colors.textColor}
   }
 
   img {
