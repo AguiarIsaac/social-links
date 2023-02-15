@@ -5,7 +5,7 @@ export const Container = styled.main`
   min-width: 100vw;
   background: ${props => props.theme.colors.background};
   background-size: 500% 100%;
-  animation: colors 8s infinite alternate;
+  animation: colors 4s infinite alternate;
 
   display: flex;
   align-items: center;
@@ -67,10 +67,6 @@ export const Links = styled.div`
     :hover {
       scale: 1.1;
     }
-  }
-
-  @media(max-width: 768px) {
-    max-width: 12rem;
   }
 `
 
