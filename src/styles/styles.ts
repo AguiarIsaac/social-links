@@ -37,6 +37,7 @@ export const Profile = styled.div`
   max-width: 12rem;
 
   img {
+    max-width: 10rem;
     border-radius: 50%;
   }
 `
