@@ -21,4 +21,4 @@
 * Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AguiarIsaac/social-links).
 
 ## 📜 Licença
-* ToDo List é [MIT licensed](./LICENSE).
+* Social Links é [MIT licensed](./LICENSE).
